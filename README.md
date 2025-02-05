@@ -34,11 +34,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 </p>
-
----
-
-### 📊 **GitHub Stats:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arapcihuy&show_icons=true&theme=dark" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arapcihuy&theme=dark" width="48%" alt="GitHub Streak">
-</p>
