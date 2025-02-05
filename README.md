@@ -1,4 +1,6 @@
-![Pixel Art Programmer](2ad54d49a039520baf520c78a3ab8a07ab5a50eab9d5c0fe15827f23e0902a3c.gif)
+<p align="center">
+  <img src="2ad54d49a039520baf520c78a3ab8a07ab5a50eab9d5c0fe15827f23e0902a3c.gif" width="300" />
+</p>
 <h1 align="center">Hi 👋, I'm Acit</h1>
 <h3 align="center">A passionate Mobile & Web Developer from Indonesia</h3>
 
