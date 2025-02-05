@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Streamer.gif" width="300" />
+  <img src="tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300).gif" width="300" />
 </p>
 <h1 align="center">Hi 👋, I'm Acit</h1>
 <h3 align="center">A passionate Mobile & Web Developer from Indonesia</h3>
