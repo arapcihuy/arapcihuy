@@ -1,4 +1,4 @@
-![Pixel Art](https://raw.githubusercontent.com/arapcihuy/arapcihuy/main/pixel-art.png)
+![Pixel Art Programmer](2ad54d49a039520baf520c78a3ab8a07ab5a50eab9d5c0fe15827f23e0902a3c.gif)
 <h1 align="center">Hi 👋, I'm Acit</h1>
 <h3 align="center">A passionate Mobile & Web Developer from Indonesia</h3>
 
