@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Ionic & Firebase**
 - 🔭 I’m currently working on **a new mobile app**
 - 💬 Ask me about **Ionic, Firebase, and Web Development**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: rasyidahmad180@gmail.com
 - 🎥 Check out my latest project: **[Desa Potorono Website](https://your-link.com)**
 
 ---
