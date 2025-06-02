@@ -7,36 +7,45 @@
 
 ---
 
-✨ **About Me:**  
-I'm a passionate coder on a quest to craft sleek, powerful apps that people love to use. Whether it’s spinning up mobile experiences with Ionic or building scalable backends with Firebase, I’m always eager to learn and create.
+### ✨ About Me
 
-🌱 **Currently growing:**  
-Diving deep into **Ionic & Firebase** to make apps that just work, everywhere.  
-
-🚀 **What I’m building:**  
-A shiny new mobile app 🚧 — stay tuned for exciting updates!
-
-💬 **Ask me anything about:**  
-Ionic, Firebase, Web Development — or just tech in general, I’m happy to chat!
-
-🌐 **My Website:**  
-Visit my creation at [rumbledirgantara.com](https://rumbledirgantara.com) — where ideas take flight.
-
-🎥 **Portfolio:**  
-See all my projects and experiments here: [portofolio-arapcihuys-projects.vercel.app](https://portofolio-arapcihuys-projects.vercel.app/)
-
-📫 **Connect with me:**  
-Find me on [LinkedIn](https://www.linkedin.com/in/rasyid-ahmad-840b8b250/) — let’s network and innovate together!
+I’m **Rasyid Achmad Fauzi**, an undergraduate Information Technology student at The Islamic University of Indonesia.  
+A fast learner and team player passionate about sharpening my technical skills through real-world experience, internships, and projects.  
+I’m dedicated to building simple, responsive, and user-friendly digital experiences that make a difference.
 
 ---
 
-### 🌐 **Let’s connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rasyid-ahmad-840b8b250/)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/r.asyidahmad/)
+### 🚀 Experience & Projects
+
+- **Rumbel Dirgantara** ([rumbeldirgantara.com](https://rumbeldirgantara.com))  
+  Developed a tutoring website for elementary school students using pure HTML and CSS, focusing on simplicity, responsiveness, and easy navigation for parents.
+
+- **Rumah Kinclong**  
+  Designed a digital prototype for a home cleaning service app with Figma, emphasizing intuitive UI/UX to ensure fast and comfortable booking for users.
+
+- **Quondam E-commerce Website Design**  
+  Created a modern, user-friendly e-commerce concept with Figma, prioritizing smooth navigation and efficient product search.
+
+- **Staff, Porsematik FTI UII 2022**  
+  Participated in the Faculty of Information Technology's competitive web app development event, honing technical and creative skills under pressure and teamwork. This experience deepened my understanding of software development cycles and user experience importance.
 
 ---
 
-### 💻 **Tech Stack & Tools I Love:**  
+### 🌱 What I'm Learning & Building
+
+Currently diving deep into **Ionic & Firebase**, crafting mobile apps that just work — with a focus on performance, usability, and reliability.
+
+---
+
+### 🌐 Connect & Explore
+
+- **Website:** [rumbledirgantara.com](https://rumbledirgantara.com)  
+- **Portfolio:** [portofolio-arapcihuys-projects.vercel.app](https://portofolio-arapcihuys-projects.vercel.app/)  
+- **LinkedIn:** [linkedin.com/in/rasyid-ahmad-840b8b250](https://www.linkedin.com/in/rasyid-ahmad-840b8b250/)
+
+---
+
+### 💻 Tech Stack & Tools I Love  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
