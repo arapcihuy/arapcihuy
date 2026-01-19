@@ -1,72 +1,153 @@
-<p align="center">
+<div align="center">
   <img src="tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300).gif" width="1000" />
-</p>
-
-<h1 align="center">Hey there! 👋 I'm Acit</h1>
-<h3 align="center">Fueling the future with Mobile & Web magic from Indonesia 🇮🇩</h3>
-
----
-
-### ✨ About Me
-
-I’m **Rasyid Achmad Fauzi**, an undergraduate Information Technology student at The Islamic University of Indonesia.  
-A fast learner and team player passionate about sharpening my technical skills through real-world experience, internships, and projects.  
-I’m dedicated to building simple, responsive, and user-friendly digital experiences that make a difference.
+  
+  # 👋 Hi, I'm Rasyid Achmad Fauzi (Acit)
+  
+  **Mobile & Web Developer | IoT Enthusiast | IT Student @ UII**
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://portofolio-arapcihuys-projects.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasyid-ahmad-840b8b250/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/arapcihuy)
+</div>
 
 ---
 
-### 🚀 Experience & Projects
+## 🚀 About Me
 
-- **Rumbel Dirgantara** ([rumbeldirgantara.com](https://rumbeldirgantara.com))  
-  Developed a tutoring website for elementary school students using pure HTML and CSS, focusing on simplicity, responsiveness, and easy navigation for parents.
+Saya mahasiswa S1 Informatika di **Universitas Islam Indonesia** yang passionate dalam pengembangan aplikasi mobile, web, dan sistem IoT. Saat ini sedang menyelesaikan tugas akhir tentang **Sistem Pendeteksi Pencemaran Air Sungai Berbasis IoT dan Komunikasi LoRa**.
 
-- **Rumah Kinclong**  
-  Designed a digital prototype for a home cleaning service app with Figma, emphasizing intuitive UI/UX to ensure fast and comfortable booking for users.
-
-- **Quondam E-commerce Website Design**  
-  Created a modern, user-friendly e-commerce concept with Figma, prioritizing smooth navigation and efficient product search.
-
-- **Staff, Porsematik FTI UII 2022**  
-  Participated in the Faculty of Information Technology's competitive web app development event, honing technical and creative skills under pressure and teamwork. This experience deepened my understanding of software development cycles and user experience importance.
+- 🔭 Currently working on: **IoT Water Quality Monitoring System**
+- 🌱 Learning: **Ionic, Firebase, LoRa Communication, TypeScript**
+- 💡 Interested in: **IoT Systems, Full-Stack Development, Cybersecurity**
+- 📍 Location: **Yogyakarta, Indonesia**
+- 💼 Open for: **Internships, Collaborations, and Freelance Projects**
 
 ---
 
-### 🌱 What I'm Learning & Building
+## 🛠️ Tech Stack
 
-Currently diving deep into **Ionic & Firebase**, crafting mobile apps that just work — with a focus on performance, usability, and reliability.
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Mobile Development
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### IoT & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-00A9CE?style=for-the-badge)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 🌐 Connect & Explore
+## 💼 Featured Projects
 
-- **Website:** [rumbledirgantara.com](https://rumbledirgantara.com)  
-- **Portfolio:** [portofolio-arapcihuys-projects.vercel.app](https://portofolio-arapcihuys-projects.vercel.app/)  
-- **LinkedIn:** [linkedin.com/in/rasyid-ahmad-840b8b250](https://www.linkedin.com/in/rasyid-ahmad-840b8b250/)
+### 🌊📊 IoT Monitoring Projects (Water & Environment)
+
+Sederet proyek IoT untuk memantau kualitas lingkungan secara real-time dengan ESP32, sensor, dan dashboard web.
+
+- **Sistem Pemantauan Kualitas Air Sungai (LoRa)**
+  - Repo: [iot-water-monitoring](https://github.com/arapcihuy/iot-water-monitoring)
+  - Deskripsi: Sistem monitoring kualitas air sungai real-time berbasis IoT dengan komunikasi LoRa.
+  - Teknologi: ESP32, Arduino, LoRa, Sensor pH, Sensor TDS, C++
+  - Fitur: Pemantauan waktu nyata, kalibrasi sensor, komunikasi jarak jauh.
+
+- **Pemantauan Suhu & Kelembaban (DHT-11)**
+  - Repo: [realtime-monitoring-dht-11-sensor-with-esp-32](https://github.com/arapcihuy/realtime-monitoring-dht-11-sensor-with-esp-32)
+  - Deskripsi: Dashboard untuk memonitor suhu dan kelembaban secara real-time menggunakan ESP32 dan sensor DHT-11.
+  - Teknologi: ESP32, DHT-11, TypeScript, WebSocket
+  - Fitur: Visualisasi data waktu nyata, dasbor responsif.
+
+### 🏢 [PT. Cakra Bahana Sakti - Company Profile](https://github.com/arapcihuy/pt.cakra-bahana-sakti)
+Website company profile modern dan responsif untuk perusahaan
+- **Tech:** TypeScript, Next.js, TailwindCSS
+- **Link:** [Live Demo](https://pt-cakra-bahana-sakti.vercel.app)
+
+### 🏢 [PT. Ontiyus Karya Mulia - Company Website](https://github.com/arapcihuy/pt-ontiyus-karya-mulia)
+Website perusahaan dengan desain modern dan user-friendly
+- **Tech:** TypeScript, Next.js, React
+- **Link:** [Live Demo](https://pt-ontiyus-karya-mulia.vercel.app)
+
+### 🎨 [Personal Portfolio Website V2](https://github.com/arapcihuy/portofolio2)
+Portfolio website dengan animasi interaktif dan desain modern
+- **Tech:** TypeScript, React, Next.js
+- **Link:** [Live Demo](https://portofolio2-dusky.vercel.app)
+
+### 🌐 [Jari Al Jabar Website](https://github.com/arapcihuy/jarialjabar)
+Website informasi untuk komunitas dengan fokus pada user experience
+- **Tech:** HTML, CSS, JavaScript
+- **Link:** [Live Demo](https://jarialjabar.vercel.app)
 
 ---
 
-### 💻 Tech Stack & Tools I Love  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arapcihuy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arapcihuy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arapcihuy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-⭐ **Fun fact:**  
-When I’m not coding, you’ll find me gaming 🎮, exploring new tech trends 🔍, or experimenting with creative UI designs 🎨.
+## 🎓 Education & Experience
+
+**Universitas Islam Indonesia (UII)** | 2021 - Present  
+- S1 Informatika/Teknik Informatika
+- Focus: IoT Systems, Web Development, Mobile Development
+- Final Thesis: IoT-based River Water Pollution Detection System with LoRa Communication
+
+**Key Learning:**
+- Campus Merdeka Programs
+- Cyber Security Training
+- Full-Stack Development
+- IoT System Design & Implementation
 
 ---
 
-Thanks for stopping by! Let’s build something awesome together. 🚀
+## 🤝 Let's Connect!
+
+- 💼 LinkedIn: [Rasyid Ahmad](https://www.linkedin.com/in/rasyid-ahmad-840b8b250/)
+- 🌐 Portfolio: [Visit My Portfolio](https://portofolio-arapcihuys-projects.vercel.app/)
+- 📧 Email: Available on LinkedIn
+- 🌐 Website: [Rumble Dirgantara](https://rumbledirgantara.com)
+
+---
+
+<div align="center">
+  
+  ### 💭 Sedikit Pegangan Hidup
+
+"Ngoding itu gampang, yang susah itu pura-pura paham kode kemarin malam."
+
+⭐ Kalau ada satu repo di sini yang bikin kamu merasa  
+"anjir, ini gue banget", tinggal kasih star.  
+Anggap aja barter: kamu kasih star, saya lanjut bikin bug baru.
+  
+</div>
