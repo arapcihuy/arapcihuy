@@ -167,9 +167,5 @@ Website informasi untuk komunitas dengan fokus pada user experience
 ### 💭 Sedikit Pegangan Hidup
 
 *"Ngoding itu gampang, yang susah itu pura-pura paham kode kemarin malam."*
-
-⭐ Kalau ada satu repo di sini yang bikin kamu merasa  
-*"anjir, ini gue banget"*, tinggal kasih star.  
-Anggap aja barter: kamu kasih star, saya lanjut bikin bug baru.
   
 </div>
