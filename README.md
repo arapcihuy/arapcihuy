@@ -23,12 +23,15 @@ Saya mahasiswa S1 Informatika di **Universitas Islam Indonesia** yang passionate
 - 💼 Open for: **Internships, Collaborations, and Freelance Projects**
 
 ---
+
 ## 📚 Currently Learning
 
 - 🔐 Advanced Cybersecurity & Penetration Testing
 - 🤖 Machine Learning & AI Integration with IoT
 - 🌐 Advanced LoRa Communication Protocols
 - ⚡ Real-time Data Processing & Analytics
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -68,10 +71,6 @@ Saya mahasiswa S1 Informatika di **Universitas Islam Indonesia** yang passionate
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arapcihuy&theme=tokyonight&hide_border=true" alt="Coding time" />
-</div>
 
 ## 💼 Featured Projects
 
@@ -128,14 +127,6 @@ Website informasi untuk komunitas dengan fokus pada user experience
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arapcihuy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arapcihuy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/arapcihuy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&config.timezone=Asia%2FJakarta" alt="Metrics" />
-</div>
-
 ---
 
 ## 🎓 Education & Experience
@@ -153,35 +144,32 @@ Website informasi untuk komunitas dengan fokus pada user experience
 
 ---
 
-## 🏆 Certifications & Achievements
-
-- 📜 **Cyber Security Training** - [Institution Name]
-- 🎓 **Campus Merdeka Program** - [Specific Program]
-- 💡 **IoT System Design Certification** - [If applicable]
-- 🌟 **[Any competitions or hackathons won]**
-
----
-
 ## 🤝 Let's Connect!
 
-- 💼 LinkedIn: [Rasyid Ahmad](https://www.linkedin.com/in/rasyid-ahmad-840b8b250/)
-- 🌐 Portfolio: [Visit My Portfolio](https://portofolio-arapcihuys-projects.vercel.app/)
-- 📧 Email: Available on LinkedIn
-- 🌐 Website: [Rumble Dirgantara](https://rumbledirgantara.com)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasyid-ahmad-840b8b250/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-arapcihuys-projects.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
 
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arapcihuy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
+---
+
 <div align="center">
   
-  ### 💭 Sedikit Pegangan Hidup
+### 💭 Sedikit Pegangan Hidup
 
-"Ngoding itu gampang, yang susah itu pura-pura paham kode kemarin malam."
+*"Ngoding itu gampang, yang susah itu pura-pura paham kode kemarin malam."*
 
 ⭐ Kalau ada satu repo di sini yang bikin kamu merasa  
-"anjir, ini gue banget", tinggal kasih star.  
+*"anjir, ini gue banget"*, tinggal kasih star.  
 Anggap aja barter: kamu kasih star, saya lanjut bikin bug baru.
   
 </div>
