@@ -13,7 +13,7 @@
         As a final-year Informatics student at Universitas Islam Indonesia, I build IoT systems and full-stack applications that power digital transformation. I specialize in translating complex technical requirements into real-world solutions, from water quality monitoring systems to responsive web applications.
       </p>
       <p>   
-        Beyond web development, I leverage IoT and Embedded Systems as a core component of my stack. I integrate LoRa Communication and Sensor Technology into applications to create smarter monitoring systems—merging the reliability of hardware with the intelligence of real-time data processing.
+        Beyond web development, I leverage IoT and Embedded Systems as a core component of my stack. I integrate LoRa Communication and Sensor Technology into applications to create smarter monitoring systems merging the reliability of hardware with the intelligence of real-time data processing.
       </p>
        <a href="https://linkedin.com/in/rasyid-ahmad-840b8b250"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     </td>
