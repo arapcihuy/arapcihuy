@@ -42,5 +42,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-  
+## 📊 GitHub Stats
+
+![Rasyid's GitHub stats](https://github-readme-stats.vercel.app/api?username=arapcihuy&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arapcihuy&layout=compact&theme=radical&hide_border=true)
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arapcihuy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
