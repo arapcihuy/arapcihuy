@@ -108,7 +108,9 @@ tools: [React, Next.js, Laravel, ESP32, Burp Suite, Docker]
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arapcihuy&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <a href="https://github.com/arapcihuy?tab=repositories"><img src="https://img.shields.io/badge/Repositories-16-00D9FF?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/arapcihuy?tab=stars"><img src="https://img.shields.io/badge/Stars-Earned-FFD700?style=flat-square&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00D9FF?style=flat-square&logo=opensourceinitiative" />
 </p>
 
 ---
@@ -120,7 +122,7 @@ tools: [React, Next.js, Laravel, ESP32, Burp Suite, Docker]
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arapcihuy/arapcihuy/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arapcihuy&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
