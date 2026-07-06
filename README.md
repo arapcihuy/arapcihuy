@@ -9,7 +9,7 @@
   </p>
 
   <!-- Animated Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=separator" width="100%" />
 
 </div>
 
@@ -96,7 +96,7 @@ tools: [React, Next.js, Laravel, ESP32, Burp Suite, Docker]
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arapcihuy&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=arapcihuy&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
