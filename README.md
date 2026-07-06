@@ -91,8 +91,8 @@ tools: [React, Next.js, Laravel, ESP32, Burp Suite, Docker]
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arapcihuy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arapcihuy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=arapcihuy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs/?username=arapcihuy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
