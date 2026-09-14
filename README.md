@@ -33,10 +33,11 @@ education: B.Sc Computer Science (Final Year)
 focus:
   - Web & Mobile Development
   - IoT & Embedded Systems
+  - Functional QA & Test Automation
   - Penetration Testing & Threat Modeling
   - System Integration & Automation
 languages: [TypeScript, Python, PHP, JavaScript, SQL, C++]
-tools: [React, Next.js, Laravel, ESP32, Burp Suite, Docker]
+tools: [React, Next.js, Laravel, Playwright, ESP32, Burp Suite, Docker]
 ```
 
 ---
@@ -108,7 +109,7 @@ tools: [React, Next.js, Laravel, ESP32, Burp Suite, Docker]
 </div>
 
 <p align="center">
-  <a href="https://github.com/arapcihuy?tab=repositories"><img src="https://img.shields.io/badge/Repositories-16-00D9FF?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/arapcihuy?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20-00D9FF?style=flat-square&logo=github" /></a>
   <a href="https://github.com/arapcihuy?tab=stars"><img src="https://img.shields.io/badge/Stars-Earned-FFD700?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-00D9FF?style=flat-square&logo=opensourceinitiative" />
 </p>
@@ -135,6 +136,7 @@ tools: [React, Next.js, Laravel, ESP32, Burp Suite, Docker]
 
 | Project | Description | Stack |
 |---|---|---|
+| [portfolio-qa-crud-audit](https://github.com/arapcihuy/portfolio-qa-crud-audit) | Functional CRUD audit portfolio — test case sheet, 19 automated Playwright tests, bug report with raw evidence | Playwright, Node.js, QA |
 | [sinyalbingx](https://github.com/arapcihuy/sinyalbingx) | AI-assisted crypto signal automation with real-time trading workflow | Python, BingX API, Docker |
 | [iot-water-monitoring](https://github.com/arapcihuy/iot-water-monitoring) | Real-time IoT water quality monitoring with sensor dashboard | ESP32, MQTT, Firebase |
 | [flut-app-security-audit](https://github.com/arapcihuy/flut-app-security-audit) | Professional mobile pentest report — Flutter app security assessment | Flutter, Burp Suite, OWASP |
