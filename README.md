@@ -137,11 +137,13 @@ tools: [React, Next.js, Laravel, Playwright, ESP32, Burp Suite, Docker]
 | Project | Description | Stack |
 |---|---|---|
 | [portfolio-qa-crud-audit](https://github.com/arapcihuy/portfolio-qa-crud-audit) | Functional CRUD audit portfolio — test case sheet, 19 automated Playwright tests, bug report with raw evidence | Playwright, Node.js, QA |
-| [sinyalbingx](https://github.com/arapcihuy/sinyalbingx) | AI-assisted crypto signal automation with real-time trading workflow | Python, BingX API, Docker |
+| [pt-ontiyus-karya-mulia](https://github.com/arapcihuy/pt-ontiyus-karya-mulia) | Internal information & management portal built for a client | TypeScript, Tailwind CSS |
+| [pk-perwira-tni](https://github.com/arapcihuy/pk-perwira-tni) | Exam question bank (1,225 questions) with automated quality validation | Next.js, Python |
 | [iot-water-monitoring](https://github.com/arapcihuy/iot-water-monitoring) | Real-time IoT water quality monitoring with sensor dashboard | ESP32, MQTT, Firebase |
-| [flut-app-security-audit](https://github.com/arapcihuy/flut-app-security-audit) | Professional mobile pentest report — Flutter app security assessment | Flutter, Burp Suite, OWASP |
+| flut-app-security-audit | Professional mobile pentest report — Flutter app security assessment *(private)* | Flutter, Burp Suite, OWASP |
 | [hermes-agent](https://github.com/arapcihuy/hermes-agent) | AI agent framework with persistent memory and multi-model routing | TypeScript, Node.js, OpenRouter |
 | [esp32-dht11-monitoring](https://github.com/arapcihuy/esp32-dht11-monitoring) | Temperature & humidity monitoring with ESP32 + DHT11 sensor | ESP32, Arduino, C++ |
+| [momo_dimsumm](https://github.com/arapcihuy/momo_dimsumm) | Digital menu and ordering system for a restaurant client | HTML, JavaScript |
 | [jarialjabar](https://github.com/arapcihuy/jarialjabar) | Journalism organization profile website | HTML, CSS, JavaScript |
 
 > Several client, academic, and security repos are private by design.
