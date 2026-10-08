@@ -1,196 +1,137 @@
 <div align="center">
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&height=72&lines=Rasyid+Ahmad+Fauzi;Full-Stack+Developer;IoT+%26+Embedded+Engineer;Cybersecurity+Auditor;Open-Source+Contributor" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F2430,100:D4AF37&text=RASYID%20AHMAD%20FAUZI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20IoT%20%26%20Embedded%20%C2%B7%20Security%20Auditor&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Rasyid Ahmad Fauzi" />
 
-  <!-- Profile Views Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=arapcihuy&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  </p>
+<a href="https://github.com/arapcihuy">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=680&height=45&lines=Building+production-grade+web+%26+embedded+systems;Functional+QA+%26+test+automation;Security+auditing+%26+threat+modeling" alt="typing" />
+</a>
 
-  <!-- Animated Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=separator" width="100%" />
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-### 🧑‍💻 About Me
+<a href="https://github.com/arapcihuy?tab=followers"><img src="https://img.shields.io/github/followers/arapcihuy?label=Followers&style=flat-square&color=D4AF37&labelColor=0D1117" /></a>
+<img src="https://img.shields.io/badge/Focus-Enterprise%20Web%20%C2%B7%20IoT%20%C2%B7%20QA-D4AF37?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Based%20in-Yogyakarta%2C%20Indonesia-D4AF37?style=flat-square&labelColor=0D1117" />
+<a href="https://komarev.com/ghpvc/?username=arapcihuy"><img src="https://komarev.com/ghpvc/?username=arapcihuy&label=Views&color=D4AF37&style=flat-square" /></a>
 
 </div>
 
-<p align="center">
-  <em>Final-Year Computer Science Student @ Universitas Islam Indonesia, Yogyakarta</em>
-</p>
+<br/>
+
+## Profile
 
 ```yaml
-name: Rasyid Ahmad Fauzi
-role: Full-Stack Developer · IoT Engineer · Cybersecurity Auditor
-location: Yogyakarta, Indonesia
-education: B.Sc Computer Science (Final Year)
-focus:
-  - Web & Mobile Development
-  - IoT & Embedded Systems
-  - Functional QA & Test Automation
-  - Penetration Testing & Threat Modeling
-  - System Integration & Automation
-languages: [TypeScript, Python, PHP, JavaScript, SQL, C++]
-tools: [React, Next.js, Laravel, Playwright, ESP32, Burp Suite, Docker]
+name:        Rasyid Ahmad Fauzi
+role:        Full-Stack Engineer · IoT Engineer · Security Auditor
+location:    Yogyakarta, Indonesia
+education:   B.Sc. Computer Science — Universitas Islam Indonesia
+repos:       public portfolio, client systems, embedded firmware, security reports
+status:      open for engineering & QA engagements
 ```
 
----
+Engineer who ships end-to-end: designs the interface, wires the backend, programmes the
+microcontroller, then audits the result before it goes live. I care about systems that
+hold up under real users — tested, documented, and secure by default.
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-### 🛠️ Tech Stack
+**Languages**
+
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=D4AF37" />
+
+**Frontend & Backend**
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=D4AF37" />
+
+**IoT & Security**
+
+<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Burp%20Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=D4AF37" />
 
 </div>
 
-<!-- Languages -->
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<br/>
 
-<!-- Frontend -->
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-</p>
+## Featured Work
 
-<!-- Backend & Cloud -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<!-- IoT & Security -->
-<p align="center">
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-
-### 📊 GitHub Statistics
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=arapcihuy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs/?username=arapcihuy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arapcihuy&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/arapcihuy?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20-00D9FF?style=flat-square&logo=github" /></a>
-  <a href="https://github.com/arapcihuy?tab=stars"><img src="https://img.shields.io/badge/Stars-Earned-FFD700?style=flat-square&logo=github" /></a>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00D9FF?style=flat-square&logo=opensourceinitiative" />
-</p>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arapcihuy&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-<div align="center">
-
-### 🚀 Featured Projects
-
-</div>
-
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| [portfolio-qa-crud-audit](https://github.com/arapcihuy/portfolio-qa-crud-audit) | Functional CRUD audit portfolio — test case sheet, 19 automated Playwright tests, bug report with raw evidence | Playwright, Node.js, QA |
-| [pt-ontiyus-karya-mulia](https://github.com/arapcihuy/pt-ontiyus-karya-mulia) | Internal information & management portal built for a client | TypeScript, Tailwind CSS |
-| [pk-perwira-tni](https://github.com/arapcihuy/pk-perwira-tni) | Exam question bank (1,225 questions) with automated quality validation | Next.js, Python |
-| [iot-water-monitoring](https://github.com/arapcihuy/iot-water-monitoring) | Real-time IoT water quality monitoring with sensor dashboard | ESP32, MQTT, Firebase |
-| flut-app-security-audit | Professional mobile pentest report — Flutter app security assessment *(private)* | Flutter, Burp Suite, OWASP |
-| [hermes-agent](https://github.com/arapcihuy/hermes-agent) | AI agent framework with persistent memory and multi-model routing | TypeScript, Node.js, OpenRouter |
-| [esp32-dht11-monitoring](https://github.com/arapcihuy/esp32-dht11-monitoring) | Temperature & humidity monitoring with ESP32 + DHT11 sensor | ESP32, Arduino, C++ |
-| [momo_dimsumm](https://github.com/arapcihuy/momo_dimsumm) | Digital menu and ordering system for a restaurant client | HTML, JavaScript |
-| [jarialjabar](https://github.com/arapcihuy/jarialjabar) | Journalism organization profile website | HTML, CSS, JavaScript |
+| **[siappsikotes](https://github.com/arapcihuy/siappsikotes)** | Indonesian psychotest & CPNS prep platform — 1,300+ questions with explanations, no account required | Next.js · Python |
+| **[portfolio-qa-crud-audit](https://github.com/arapcihuy/portfolio-qa-crud-audit)** | End-to-end functional CRUD audit: test-case sheet, automated Playwright suite, bug reports with raw evidence | Playwright · Node.js |
+| **[undangan-digital-3d](https://github.com/arapcihuy/undangan-digital-3d)** | Cinematic 3D digital wedding invitation — WebGL/Three.js, live demo, ready-to-use template | Three.js |
+| **[jasa-qa](https://github.com/arapcihuy/jasa-qa)** | Service page for QA auditing & test automation — functional CRUD audits, Playwright automation, evidence-backed reports | HTML · JS |
+| **[iot-water-monitoring](https://github.com/arapcihuy/iot-water-monitoring)** | Real-time IoT water-quality monitoring with sensor pipeline and analytics dashboard | ESP32 · MQTT · Firebase |
+| **[pt-ontiyus-karya-mulia](https://github.com/arapcihuy/pt-ontiyus-karya-mulia)** | Internal information & management portal delivered for a client | TypeScript · Tailwind |
+| **[CIMEDs-portal](https://github.com/arapcihuy/CIMEDs-portal)** | Medical information system portal for health-data integration | TypeScript |
+| **[esp32-dht11-monitoring](https://github.com/arapcihuy/esp32-dht11-monitoring)** | Temperature & humidity telemetry with ESP32 + DHT11 | ESP32 · C++ |
 
-> Several client, academic, and security repos are private by design.
+<sub>Client, academic and security-audit repositories are private by design.</sub>
 
----
+<br/>
+
+## GitHub Activity
 
 <div align="center">
 
-### 🔐 Security Focus
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arapcihuy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arapcihuy&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9" />
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com/?user=arapcihuy&hide_border=true&background=0D1117&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C9D1D9&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arapcihuy&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web_Security-FF0000?style=for-the-badge&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile_Security-FF6600?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-CC0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat_Modeling-6600CC?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerability_Assessment-0066CC?style=for-the-badge&logo=nessus&logoColor=white" />
-</p>
+<br/>
 
----
+## Security Work
+
+Auditing applications the way an attacker would, then closing what I find — with
+reproducible evidence and severity-weighted findings.
+
+<div align="center">
+<img src="https://img.shields.io/badge/Web%20App%20Security-0D1117?style=for-the-badge&logo=hackerone&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Mobile%20Pentest-0D1117?style=for-the-badge&logo=android&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-0D1117?style=for-the-badge&logo=owasp&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Threat%20Modeling-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-0D1117?style=for-the-badge&logo=nsa&logoColor=D4AF37" />
+</div>
+
+<br/>
+
+## Connect
 
 <div align="center">
 
-### 📫 Connect With Me
+<a href="https://linkedin.com/in/rasyid-ahmad-840b8b250"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="https://arapcihuy.github.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37" /></a>
+<a href="mailto:arapcihuy@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rasyid-ahmad-840b8b250">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://arapcihuy.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:arapcihuy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
+<br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" width="100%" />
-
-<sub>⭐ From <a href="https://github.com/arapcihuy">arapcihuy</a> — Built with passion & caffeine ☕</sub>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:D4AF37,50:1F2430,100:0D1117&section=footer" width="100%" />
 </div>
