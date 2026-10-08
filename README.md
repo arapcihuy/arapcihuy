@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F2430,100:D4AF37&text=RASYID%20AHMAD%20FAUZI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20IoT%20%26%20Embedded%20%C2%B7%20Security%20Auditor&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Rasyid Ahmad Fauzi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F2430,100:D4AF37&text=RASYID%20AHMAD%20FAUZI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20IoT%20%2F%20Embedded%20%C2%B7%20Security%20Auditor&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Rasyid Ahmad Fauzi" />
 
 <a href="https://github.com/arapcihuy">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=680&height=45&lines=Building+production-grade+web+%26+embedded+systems;Functional+QA+%26+test+automation;Security+auditing+%26+threat+modeling" alt="typing" />
