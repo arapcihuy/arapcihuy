@@ -99,7 +99,7 @@ hold up under real users — tested, documented, and secure by default.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arapcihuy&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arapcihuy&theme=github_dark&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37&border_color=D4AF37" alt="GitHub Summary" />
 
 </div>
 
