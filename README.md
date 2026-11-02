@@ -90,8 +90,8 @@ hold up under real users — tested, documented, and secure by default.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arapcihuy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arapcihuy&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arapcihuy&theme=github_dark&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37&border_color=D4AF37" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arapcihuy&theme=github_dark&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9&icon_color=D4AF37&border_color=D4AF37" />
 
 <br/>
 
